@@ -1,0 +1,6 @@
+fr\ventuss\launcher\App.class
+fr\ventuss\launcher\ui\panel\Panel.class
+fr\ventuss\launcher\ui\PanelManager.class
+fr\ventuss\launcher\ui\panel\IPanel.class
+fr\ventuss\launcher\Launcher.class
+fr\ventuss\launcher\ui\panel\inside\PanelTop.class
